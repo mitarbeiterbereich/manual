@@ -16,3 +16,7 @@
 - [Profildaten](de/profildaten.md)
   - [Benachrichtigungen](de/benachrichtigungen.md)
 - [Premiumfunktionen](de/premium.md)
+
+----
+
+[FAQ](https://mitarbeiterbereich.gitbooks.io/faq/content/)
