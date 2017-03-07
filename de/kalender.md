@@ -30,4 +30,4 @@ Sowohl die Liste der Ereignisse, als auch die Ereignisse im Kalender sind mit de
 [3]: https://www.mitarbeiterbereich.de/calendar#week
 [4]: https://www.mitarbeiterbereich.de/calendar#day
 [5]: ./ereignisliste.md
-[6]: /docs/faq/ereignis-loeschen
+[6]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/ereignis-loeschen.html
