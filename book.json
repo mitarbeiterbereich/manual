@@ -9,7 +9,7 @@
             "vk": false,
             "all": [
                 "facebook", "google", "twitter",
-                "instapaper"
+                "instapaper", "weibo"
             ]
         }
     }
