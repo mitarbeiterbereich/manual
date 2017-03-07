@@ -32,6 +32,6 @@ Für das Löschen Ihres Zuganges können Sie im [Profil][1] den Button *Löschen
 > <i class="fa fa-question fa-fw"></i> [Account löschen][2]
 
 [1]: https://www.mitarbeiterbereich.de/user
-[2]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/passwort-aendern.html
-[3]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/account-loeschen.html
+[2]: https://mitarbeiterbereich.gitbooks.io/faq/content/de/passwort-aendern.html
+[3]: https://mitarbeiterbereich.gitbooks.io/faq/content/de/account-loeschen.html
 [img-profile]: ./images/mb_profile_1024x702.png "Profildaten"
