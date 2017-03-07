@@ -59,7 +59,7 @@ Sobald Sie das Ereignis im Detail sehen, können Sie es löschen, sofern Sie die
 
 [1]: ./ereignistypen.md
 [2]: https://www.mitarbeiterbereich.de/absences/create
-[3]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/ereignis-loeschen.html
+[3]: https://mitarbeiterbereich.gitbooks.io/faq/content/de/ereignis-loeschen.html
 [4]: https://www.mitarbeiterbereich.de/notify/all
 [5]: ./kalender.md
 [6]: ./ereignisliste.md
