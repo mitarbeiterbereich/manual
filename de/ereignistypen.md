@@ -84,9 +84,9 @@ Zum Löschen gehen Sie zunächst zum Bearbeiten eines Ereignistyps und wählen i
 
 > <i class="fa fa-picture-o fa-fw"></i> [Ereignistyp bearbeiten][img-types-edit]
 
-[1]: /event-types
-[2]: /event-types/create
-[3]: /calendar
+[1]: https://www.mitarbeiterbereich.de/event-types
+[2]: https://www.mitarbeiterbereich.de/event-types/create
+[3]: https://www.mitarbeiterbereich.de/calendar
 [img-types-thumb]: /images/screenshots/mb_types_manager_1024x565.png "Ereignistypen"
 [img-types]: /images/screenshots/mb_types_manager_1024x702.png "Ereignistypen"
 [img-types-create-thumb]: /images/screenshots/mb_types_create_manager_1024x565.png "Ereignistyp erstellen"
