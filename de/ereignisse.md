@@ -57,9 +57,9 @@ Sobald Sie das Ereignis im Detail sehen, können Sie es löschen, sofern Sie die
 
 > <i class="fa fa-question fa-fw"></i> [Ereignis löschen][3]
 
-[1]: /docs/manual/ereignistypen
-[2]: /absences/create
-[3]: /docs/faq/ereignis-loeschen
-[4]: /notify/all
-[5]: /docs/manual/kalender
-[6]: /docs/manual/ereignisliste
+[1]: ./ereignistypen.md
+[2]: https://www.mitarbeiterbereich.de/absences/create
+[3]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/ereignis-loeschen.html
+[4]: https://www.mitarbeiterbereich.de/notify/all
+[5]: ./kalender.md
+[6]: ./ereignisliste.md

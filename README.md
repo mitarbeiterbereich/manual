@@ -51,4 +51,4 @@ Zur Unterscheidung der verschiedenen Rollen können Sie den entsprechenden [FAQ 
 [6]: ./de/feiertage.md
 [7]: ./de/ereignistypen.md
 [8]: ./de/kalenderexporte.md
-[9]: /docs/faq/rollen-im-system
+[9]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/rollen-im-system.html
