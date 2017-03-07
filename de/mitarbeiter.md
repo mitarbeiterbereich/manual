@@ -94,5 +94,5 @@ Mehr dazu finden Sie im Thema [Rollen im System][6].
 [3]: https://www.mitarbeiterbereich.de/exports
 [4]: ./kalenderexporte.md
 [5]: ./dashboard.md
-[6]: https://ipunkt.gitbooks.io/mitarbeiterbereich-faq/content/de/rollen-im-system.html
+[6]: https://mitarbeiterbereich.gitbooks.io/faq/content/de/rollen-im-system.html
 [img-employee-create]: ./images/mb_employee_create_1024x732.png "Mitarbeiter anlegen"
