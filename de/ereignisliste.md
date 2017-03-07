@@ -23,4 +23,4 @@ Für Mitarbeiter werden nur die eigenen Ereignisse angezeigt. Personalverwalter 
 #### Quicklinks
 > <i class="fa fa-calendar fa-fw"></i> [Liste aller Ereignisse][1]
 
-[1]: /absences
+[1]: https://www.mitarbeiterbereich.de/absences
