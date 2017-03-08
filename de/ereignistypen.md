@@ -1,9 +1,8 @@
 # Ereignistypen
 
-Jedes Ereignis ist typisiert. Der Typ gibt bspw. an, ob ein Mitarbeiter bei diesem Ereignis abwesend ist oder es wird
-geregelt, dass automatisch bei Anlage eines konkreten Ereignisses auch ein PDF-Dokument erzeugt wird.
+Jedes Ereignis ist typisiert. Der Typ gibt bspw. an, ob ein Mitarbeiter bei diesem Ereignis abwesend ist oder es wird geregelt, dass automatisch bei Anlage eines konkreten Ereignisses auch ein PDF-Dokument erzeugt wird.
 
-![Ereignistypen][img-types-thumb]
+![Ereignistypen][img-types]
 
 ## Systemvorgaben
 
@@ -20,9 +19,7 @@ Tipp: Verwenden Sie die englische Bezeichung in Klammern. Diese Werte werden aut
 
 ## Farbgebung
 
-Für die Darstellung eines Ereignisses im [Kalender][3] wird die Farbgebung des Typs benutzt. Systemvorgaben können Sie
-nicht verändern. Eigene Ereignistypen sollten sich farblich an artverwandten Systemvorgaben orientieren. Das vereinfacht
-die Erfassung von vielen Ereignisse im [Kalender][3].
+Für die Darstellung eines Ereignisses im [Kalender][3] wird die Farbgebung des Typs benutzt. Systemvorgaben können Sie nicht verändern. Eigene Ereignistypen sollten sich farblich an artverwandten Systemvorgaben orientieren. Das vereinfacht die Erfassung von vielen Ereignisse im [Kalender][3].
 
 
 ## Eigenschaften eines Ereignistyps
@@ -41,7 +38,7 @@ Folgende Eigenschaften kann für jeden Typ gewählt werden:
 
 Für eigene Bedürfnisse können Sie eigene Ereignistypen erstellen.
 
-![Ereignistyp erstellen][img-types-create-thumb]
+![Ereignistyp erstellen][img-types-create]
 
 Unter [Ereignistypen][1] können Sie eine Liste der vorhandenen Ereignistypen sehen.
 
@@ -56,18 +53,15 @@ Unter [Ereignistypen][1] können Sie eine Liste der vorhandenen Ereignistypen se
 
 ## Ereignistyp bearbeiten
 
-In der Liste der [Ereignistypen][1] gibt es zu jedem Ereignistyp einen Button zum *Bearbeiten*. Dort erhalten Sie
- die gleichen Möglichkeiten wie beim Anlegen eines Ereignistyps.
+In der Liste der [Ereignistypen][1] gibt es zu jedem Ereignistyp einen Button zum *Bearbeiten*. Dort erhalten Sie die gleichen Möglichkeiten wie beim Anlegen eines Ereignistyps.
 
-![Ereignistyp bearbeiten][img-types-edit-thumb]
+![Ereignistyp bearbeiten][img-types-edit]
 
 ## Ereignistyp löschen
 
 Es können nur Ereignistypen gelöscht werden, die nicht verwendet werden.
 
-Zum Löschen gehen Sie zunächst zum Bearbeiten eines Ereignistyps und wählen innerhalb des dargestellten
- Formulars den Button zum *Löschen*. Nach erfolgter Löschbestätigung sehen Sie wieder die Liste der
- [Ereignistypen][1].
+Zum Löschen gehen Sie zunächst zum Bearbeiten eines Ereignistyps und wählen innerhalb des dargestellten Formulars den Button zum *Löschen*. Nach erfolgter Löschbestätigung sehen Sie wieder die Liste der [Ereignistypen][1].
 
 
 ----
@@ -78,18 +72,9 @@ Zum Löschen gehen Sie zunächst zum Bearbeiten eines Ereignistyps und wählen i
 
 > <i class="fa fa-plus fa-fw"></i> [Ereignistyp erstellen][2]
 
-> <i class="fa fa-picture-o fa-fw"></i> [Ereignistypen][img-types]
-
-> <i class="fa fa-picture-o fa-fw"></i> [Ereignistyp erstellen][img-types-create]
-
-> <i class="fa fa-picture-o fa-fw"></i> [Ereignistyp bearbeiten][img-types-edit]
-
 [1]: https://www.mitarbeiterbereich.de/event-types
 [2]: https://www.mitarbeiterbereich.de/event-types/create
 [3]: https://www.mitarbeiterbereich.de/calendar
-[img-types-thumb]: /images/screenshots/mb_types_manager_1024x565.png "Ereignistypen"
-[img-types]: /images/screenshots/mb_types_manager_1024x702.png "Ereignistypen"
-[img-types-create-thumb]: /images/screenshots/mb_types_create_manager_1024x565.png "Ereignistyp erstellen"
-[img-types-create]: /images/screenshots/mb_types_create_manager_1024x702.png "Ereignistyp erstellen"
-[img-types-edit-thumb]: /images/screenshots/mb_types_edit_manager_1024x565.png "Ereignistyp bearbeiten"
-[img-types-edit]: /images/screenshots/mb_types_edit_manager_1024x702.png "Ereignistyp bearbeiten"
+[img-types]: ./images/mb_types_manager_1024x702.png "Ereignistypen"
+[img-types-create]: ./images/mb_types_create_manager_1024x702.png "Ereignistyp erstellen"
+[img-types-edit]: ./images/mb_types_edit_manager_1024x702.png "Ereignistyp bearbeiten"
