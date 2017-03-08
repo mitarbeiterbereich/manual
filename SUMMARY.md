@@ -1,4 +1,4 @@
-# Summary
+# Einführung
 
 - [Einführung](README.md)
 - [Dashboard](de/dashboard.md)
