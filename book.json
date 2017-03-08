@@ -1,4 +1,7 @@
 {
+    "plugins": [
+        "versions"
+    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": true,
@@ -8,9 +11,15 @@
             "instapaper": false,
             "vk": false,
             "all": [
-                "facebook", "google", "twitter",
-                "instapaper", "weibo"
+                "facebook",
+                "google",
+                "twitter",
+                "instapaper",
+                "weibo"
             ]
+        },
+        "versions": {
+            "type": "branches"
         }
     }
 }
