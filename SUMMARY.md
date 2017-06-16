@@ -22,3 +22,5 @@
 - Team
   - Employees
     - [Invite Employees](en/team/employees/invite-employee-to-your-team.md)
+- Application
+  - [Dashboard](en/application/dashboard-view.md)
