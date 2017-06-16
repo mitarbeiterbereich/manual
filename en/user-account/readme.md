@@ -13,3 +13,9 @@ You can register in many ways for mitarbeiterbereich. Actually we support the fo
 Since registration can be done in various ways, the login is also possible in various ways:
 - [Login with email and password](login/login-with-email.md)
 - [Login with Social Network](login/login-with-social-network.md)
+
+# Self-Service
+
+As user you can modify your own data:
+- [Change email](self-service/change-email.md)
+- [Change password](self-service/change-password.md)
