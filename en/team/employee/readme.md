@@ -20,6 +20,5 @@ We have a variety of data properties for the following groups of staff data:
   - end of work
   - weekly hours
   - social security number
-  - ...
 
 We have a lot of more data you can manage for your employees, but you do not have to. It is our offer to handle all your HR stuff with mitarbeiterbereich.

@@ -20,7 +20,7 @@
     - [Change your email](en/user-account/self-service/change-email.md)
     - [Change your password](en/user-account/self-service/change-password.md)
 - [Team](en/team/readme.md)
-  - [Employees](en/team/employees/readme.md)
-    - [Invite Employees](en/team/employees/invite-employee-to-your-team.md)
+  - [Employee](en/team/employee/readme.md)
+    - [Invite Employee](en/team/employee/invite-employee-to-your-team.md)
 - Application
   - [Dashboard](en/application/dashboard-view.md)
