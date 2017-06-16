@@ -10,6 +10,6 @@ You can register in many ways for mitarbeiterbereich. Actually we support the fo
 
 ## Login
 
-Since registration can be done in varoius ways, the login is also possible in various ways:
+Since registration can be done in various ways, the login is also possible in various ways:
 - [Login with email and password](login/login-with-email.md)
 - [Login with Social Network](login/login-with-social-network.md)
