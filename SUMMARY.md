@@ -16,3 +16,6 @@
   - Login
     - [Login with email](en/user-account/login/login-with-email.md)
     - [Login with Social Network](en/user-account/login/login-with-social-network.md)
+- Team
+  - Employees
+    - [Invite Employees](en/team/employees/invite-employee-to-your-team.md)

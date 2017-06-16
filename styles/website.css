@@ -18,3 +18,10 @@
 	background-color: #f3f3f3;
 	text-decoration: none;
 }
+
+/**
+ * text styling
+ */
+.text-danger {
+	color: #d9534f;
+}
