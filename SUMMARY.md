@@ -1,5 +1,5 @@
 # Einführung
 
 - [Einführung](README.md)
-- [Erste Schritte](erste-schritte/readme.md)
-  - [Registrierung](erste-schritte/registrierung-mit-email.md)
+- [Erste Schritte](de/erste-schritte/readme.md)
+  - [Registrierung](de/erste-schritte/registrierung-mit-email.md)
