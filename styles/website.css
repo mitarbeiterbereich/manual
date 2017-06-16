@@ -22,6 +22,9 @@
 /**
  * text styling
  */
+.text-info {
+	color: #5bc0de;
+}
 .text-danger {
 	color: #d9534f;
 }
