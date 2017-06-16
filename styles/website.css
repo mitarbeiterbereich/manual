@@ -10,6 +10,10 @@
     padding: 0;
 }
 
+.markdown-section li {
+	padding: inherit;
+}
+
 .markdown-section li a {
 	display: block;
 }
