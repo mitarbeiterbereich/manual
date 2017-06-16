@@ -21,7 +21,7 @@
             ]
         },
         "versions": {
-            "type": "branches"
+            "type": "languages"
         }
     }
 }
