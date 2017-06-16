@@ -9,5 +9,5 @@
 
 ## English
 - [Introduction](en/README.md)
-- [First Steps](en/first-steps/readme.md)
-  - [Signup with email](en/first-steps/signup-with-email.md)
+- [Registration](en/registration/readme.md)
+  - [Signup with email](en/registration/signup-with-email.md)
