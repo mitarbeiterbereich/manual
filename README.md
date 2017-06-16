@@ -2,6 +2,7 @@
 search: false
 ---
 
-# Handbuch für mitarbeiterbereich
+# mitarbeiterbereich
 
-Das Handbuch ist in Kapitel passend zu den Menüpunkten aufgebaut.
+[Deutsch](de/README.md)
+[English](en/README.md)
