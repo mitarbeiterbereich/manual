@@ -26,3 +26,4 @@
   - [Dashboard](en/application/dashboard-view.md)
   - [Absence Type](en/application/absence-type/readme.md)
     - [Create an absence type](en/application/absence-type/create-absence-type.md)
+    - [Update an absence type](en/application/absence-type/update-absence-type.md)
