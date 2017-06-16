@@ -18,6 +18,7 @@
     - [Login with Social Network](en/user-account/login/login-with-social-network.md)
   - Self-Service
     - [Change your email](en/user-account/self-service/change-email.md)
+    - [Change your password](en/user-account/self-service/change-password.md)
 - Team
   - Employees
     - [Invite Employees](en/team/employees/invite-employee-to-your-team.md)
