@@ -5,16 +5,16 @@
 /**
  * lists
  */
-ul {
+.markdown-section ul {
 	list-style: none;
     padding: 0;
 }
 
-li a {
+.markdown-section li a {
 	display: block;
 }
 
-li a:hover {
+.markdown-section li a:hover {
 	background-color: #f3f3f3;
 	text-decoration: none;
 }
