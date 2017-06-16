@@ -27,3 +27,4 @@
   - [Absence Type](en/application/absence-type/readme.md)
     - [Create an absence type](en/application/absence-type/create-absence-type.md)
     - [Update an absence type](en/application/absence-type/update-absence-type.md)
+    - [Delete an absence type](en/application/absence-type/delete-absence-type.md)
