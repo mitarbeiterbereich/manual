@@ -10,4 +10,4 @@ After fully registered and activated you can use mitarbeiterbereich.
 
 ### What's next?
 
-- [Login with Social Network](login-with-social-network.md)
+- [Login with Social Network](../login/login-with-social-network.md)

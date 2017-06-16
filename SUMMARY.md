@@ -9,10 +9,10 @@
 
 ## English
 - [Introduction](en/README.md)
-- User Account
-  - [Registration](en/user-account/registration/readme.md)
+- [User Account](en/user-account/readme.md)
+  - Registration
     - [Signup with email](en/user-account/registration/signup-with-email.md)
     - [Signup with Social Network](en/user-account/registration/signup-with-social-network.md)
   - Login
-    - [Login with email](en/user-account/registration/login-with-email.md)
-    - [Login with Social Network](en/user-account/registration/login-with-social-network.md)
+    - [Login with email](en/user-account/login/login-with-email.md)
+    - [Login with Social Network](en/user-account/login/login-with-social-network.md)
