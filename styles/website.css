@@ -1,0 +1,20 @@
+/**
+ * custom styling
+ */
+
+/**
+ * lists
+ */
+ul {
+	list-style: none;
+    padding: 0;
+}
+
+li a {
+	display: block;
+}
+
+li a:hover {
+	background-color: #f3f3f3;
+	text-decoration: none;
+}
