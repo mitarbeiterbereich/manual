@@ -5,15 +5,6 @@
 /**
  * lists
  */
-.markdown-section ul {
-	list-style: none;
-    padding: 0;
-}
-
-.markdown-section li li {
-	padding: 0 0 0 2rem;
-}
-
 .markdown-section li a {
 	display: block;
 }
