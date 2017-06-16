@@ -16,5 +16,8 @@
                 "weibo"
             ]
         }
+    },
+    "variables": {
+        "exclamation": "<i class='fa fa-exclamation-triangle fa-fw text-danger'></i>"
     }
 }
