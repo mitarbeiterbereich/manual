@@ -1,6 +1,5 @@
 {
     "root": "./",
-    "language": "de",
     "plugins": [
         "versions"
     ],
@@ -21,17 +20,7 @@
             ]
         },
         "versions": {
-            "type": "branches",
-            "options": [
-                {
-                    "value": "https://github.com/mitarbeiterbereich/manual/tree/v4/en/",
-                    "text": "English"
-                },
-                {
-                    "value": "https://github.com/mitarbeiterbereich/manual/tree/v4/de/",
-                    "text": "Deutsch"
-                }
-            ]
+            "type": "branches"
         }
     }
 }
