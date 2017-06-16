@@ -24,3 +24,5 @@
     - [Invite Employee](en/team/employee/invite-employee-to-your-team.md)
 - Application
   - [Dashboard](en/application/dashboard-view.md)
+  - [Absence Type](en/application/absence-type/readme.md)
+    - [Create an absence type](en/application/absence-type/create-absence-type.md)
