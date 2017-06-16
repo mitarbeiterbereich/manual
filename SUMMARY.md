@@ -16,6 +16,8 @@
   - Login
     - [Login with email](en/user-account/login/login-with-email.md)
     - [Login with Social Network](en/user-account/login/login-with-social-network.md)
+  - Self-Service
+    - [Change your email](en/user-account/self-service/change-email.md)
 - Team
   - Employees
     - [Invite Employees](en/team/employees/invite-employee-to-your-team.md)
